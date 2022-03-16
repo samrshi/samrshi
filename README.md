@@ -2,7 +2,7 @@
 
 > I’m a software engineer attending UNC Chapel Hill with a passion for app development, music, learning, and education.
 </br></br>
-<img align=top src="icons/app-store.png" width=24px> Check out my apps on the [App Store!](https://apps.apple.com/om/developer/samuel-shi/id1531813683)
+[<img align=top src="icons/app-store.png" width=24px>](https://apps.apple.com/om/developer/samuel-shi/id1531813683) Check out my apps on the [App Store!](https://apps.apple.com/om/developer/samuel-shi/id1531813683)
 
 <br />
 

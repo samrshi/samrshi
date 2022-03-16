@@ -1,4 +1,4 @@
-## Hi there, I'm Sam 👋
+# Hi there, I'm Sam 👋
 
 > I’m a software engineer attending UNC Chapel Hill with a passion for app development, music, learning, and education.
 </br></br>
